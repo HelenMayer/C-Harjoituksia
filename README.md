@@ -1,1 +1,1 @@
-# Lis-harjoituksia
+# C#-harjoituksia collegesta
